@@ -198,6 +198,12 @@ def display_data(df):
         yes = input('\nWould you like to examine the particular data? Type \'yes\' or \'no\'\n> ')
         if yes.lower() != 'yes':
             break
+
+
+     creates a 'journey' column that concatenates 'start_station' with 
+     'end_station' for the use popular_trip() function
+    df['journey'] = df['start_station'].str.cat(df['end_station'], sep=' to ')
+
 def main():
     while True:
         city, month, day = get_filters()
