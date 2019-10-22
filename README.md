@@ -1,15 +1,23 @@
 ### Date created
-Include the date you created this project and README file.
+i create this project on 1/10/2019
 
 ### Project Title
-Replace the Project Title
+bikeshare python
 
 ### Description
-Describe what your project is about and what it does
+
+in this project i write python script to  explore data related to bike share systems for
+ three major cities in the United States—Chicago,New York City, and Washington. this script  imports data from csv files 
+and compute descriptive statistics from the data.
+
 
 ### Files used
-Include the files used
+bikeshare project- main Python script to run.
+chicago.csv - contains bikeshare data for Chicago city.
+new_york_city.csv - contains bikeshare data for New York city.
+washington.csv - contains bikeshare data for Washington city.
+README.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://stackoverflow.com/ is a great site which help me alot.
 
