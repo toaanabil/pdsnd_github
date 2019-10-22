@@ -59,6 +59,10 @@ new_york_city.csv - contains bikeshare data for New York city.
 washington.csv - contains bikeshare data for Washington city.
 README.md
 intignore
+
+Required Libraries
+pandas
+
 ### Credits
 https://stackoverflow.com/ is a great site which help me alot.
 
