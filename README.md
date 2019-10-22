@@ -62,6 +62,7 @@ intignore
 
 Required Libraries
 pandas
+numpy
 
 ### Credits
 https://stackoverflow.com/ is a great site which help me alot.
